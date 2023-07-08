@@ -1,0 +1,243 @@
+* {
+  padding: 0;
+  margin: 0;
+
+  font-family: 'Public Sans', sans-serif;
+}
+
+.logo-class {
+  height: 50px;
+}
+
+.parent-div {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px;
+
+}
+
+.nav-menu-div a {
+  font-weight: bold;
+  transition: all .40s ease;
+}
+
+.nav-menu-div a:hover {
+  transform: translateY(3px) translateX(-5px);
+  color: rgb(13, 183, 95);
+  text-decoration: underline;
+  font-size: 24px;
+
+}
+
+a {
+  padding-right: 30px;
+  text-decoration: none;
+  color: black
+}
+
+.DownloadCV {
+  font-size: 16px;
+  font-weight: bold;
+  padding-right: 35px;
+  padding-left: 35px;
+  padding-top: 16px;
+  padding-bottom: 16px;
+  background-color: white;
+  color: black;
+  border: solid;
+  border-color: rgb(13, 183, 95);
+  border-radius: 15px;
+ 
+}
+
+.DownloadCV:hover{
+  background-color: rgb(196, 235, 214);;
+
+}
+
+.DownloadCV-div {
+  padding-right: 50px;
+}
+
+.heading-webdev {
+  font-size: 34px;
+  font-weight: bold;
+
+
+}
+
+.Experienced {
+  color: rgb(13, 183, 95);
+  font-size: 40px;
+}
+
+.Front-end {
+  color: rgb(13, 183, 95);
+  font-size: 40px;
+}
+
+.section1-div {
+  width: 50%;
+  padding-top: 100px;
+  padding-left: 100px;
+}
+
+.sec-align-control-div {
+  display: flex;
+  align-items: center;
+
+}
+
+.sec1-image-div {
+  width: 50%;
+}
+
+.sec1-image {
+  padding-top: 100px;
+  padding-right: 50px;
+  height: 500px;
+}
+
+.welcome-pic {
+  width: 90px;
+}
+
+.sec1-para {
+  margin-top: 20px;
+  margin-right: 60px;
+  font-size: 16px;
+  text-align: justify;
+  line-height: 24px;
+
+}
+
+.contact_me-btn {
+  padding: 18px 30px;
+  font-size: 16px;
+  background-color: rgb(13, 183, 95);
+  color: white;
+  border: none;
+  border-radius: 8px;
+  margin-top: 30px;
+}
+
+.contact_me-btn:hover{
+  background-color: rgb(196, 235, 214);;
+  color: black;
+  
+
+}
+.button-text-arrow-div {
+  display: flex;
+
+}
+
+.view-portfolio {
+  padding-top: 50px;
+  padding-left: 15px;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.portfolio-img {
+  height: 20px;
+  padding-top: 46px;
+
+}
+
+.section2-prent-div {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 100px;
+}
+
+.project {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 10px;
+
+}
+
+.section3-align-div {
+  display: flex;
+  align-items: center;
+  margin-left: 50px;
+
+}
+
+.Whay-Hire-div {
+  width: 50%;
+  margin-left: 100px;
+
+}
+
+.whyHire-Right-Detial {
+  width: 50%;
+
+}
+
+.whyHire-Right-img {
+  padding-top: 100px;
+  padding-right: 80px;
+  height: 400px;
+  margin-left: 40px;
+}
+
+
+.hireMe-para {
+  margin-top: 20px;
+  margin-right: 60px;
+  font-size: 16px;
+  text-align: justify;
+  line-height: 24px;
+}
+
+.whyHireTitle {
+  font-size: 34px;
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+.hireMe-para {
+  margin-right: 200px;
+
+}
+
+.project {
+  font-size: 40px;
+  color: rgb(13, 183, 95);
+}
+
+.My-Lates-Project {
+  width: 200px;
+}
+
+.My-Lates-Project2 {
+  width: 200px;
+  margin-left: 20px;
+}
+
+.copy-write {
+  text-align: center;
+  background-color:  rgb(13, 183, 95);
+  padding-top: 50px;
+  padding-bottom: 50px;
+
+
+}
+
+.designedBy{
+  color: yellow;
+}
+
+
+.super-deve {
+  color: white;
+  font-weight: bold;
+}
+
+.align-control-footer {
+  margin-top: 50px;
+}
